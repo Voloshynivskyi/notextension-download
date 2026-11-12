@@ -3,7 +3,7 @@
 Highlight text, pin notes and keep one note per site on any web page. Everything stays in your browser: no account,
 no server, no tracking.
 
-![A highlighted article with the selection toolbar](images/01-highlight.png)
+![NotExtension: highlight any page, pin a note to it](images/hero.png)
 
 ## Install
 
@@ -30,11 +30,13 @@ no server, no tracking.
 - **Your data.** Export highlights as JSON or Markdown, notes and settings as JSON; import them back.
 - **Light and dark** themes for the popup, settings and dashboard.
 
-![A pinned highlight with its note and tags](images/02-pin-note.png)
+![Select text, pick one of five colours](images/01-toolbar.png)
 
-![The popup with the site note and the page's highlights](images/03-popup.png)
+![Pin a highlight to keep a note with it](images/02-popover.png)
 
-![The dashboard with highlights from several pages](images/04-dashboard.png)
+![The popup: this page's highlights and a site note](images/03-popup.png)
+
+![The dashboard: every highlight in one searchable list](images/04-dashboard.png)
 
 ## Keyboard
 
